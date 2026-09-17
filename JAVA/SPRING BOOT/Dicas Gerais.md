@@ -1,5 +1,5 @@
 
-Para cada camada do projeto, sempre utilizar a notação recomendada que o **Spring Boot** ofere.
+Para cada camada do projeto, sempre utilizar a notação recomendada que o **Spring Boot** oferece.
 
 Exemplo: 
 ```java
